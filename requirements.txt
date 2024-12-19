@@ -1,0 +1,5 @@
+numpy~=2.0.1
+torch~=2.5.1
+torchvision~=0.20.1
+tqdm~=4.67.1
+visdom~=0.2.4
